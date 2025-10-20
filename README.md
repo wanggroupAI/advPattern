@@ -1,5 +1,5 @@
 # advPattern
-=======
+
 ## Citing this work
 
 If you find this work is useful in your research, please consider citing:
